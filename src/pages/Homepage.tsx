@@ -22,7 +22,7 @@ const Homepage = () => {
     {
       icon: TrendingUp,
       title: 'Finance & Investing',
-      description: 'Premium investment tools and platforms with commissions up to $1,749 per sale',
+      description: 'Premium investment tools and platforms with commissions up to $1,749 per sale. Featuring Capitalist Exploits insider access.',
       commission: 'Up to $1,749',
       path: '/finance-investing',
       color: 'bg-green-500',

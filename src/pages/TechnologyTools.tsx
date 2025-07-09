@@ -22,7 +22,7 @@ const TechnologyTools = () => {
       cookieDuration: '30 days',
       features: ['Easy store setup', 'Payment processing', 'Marketing tools'],
       rating: 4.7,
-      link: 'https://shopify.com/?ref=techtoolsreviews',
+      link: 'https://shopify.pxf.io/55B7JD',
       type: 'high' as const
     },
     {
@@ -180,7 +180,7 @@ const TechnologyTools = () => {
           </p>
           <div className="flex flex-col sm:flex-row gap-4 justify-center">
             <a
-              href="https://shopify.com/?ref=techtoolsreviews"
+              href="https://shopify.pxf.io/YOUR_ACTUAL_SHOPIFY_ID"
               target="_blank"
               rel="noopener noreferrer"
               className="bg-white text-blue-600 hover:bg-gray-100 px-8 py-3 rounded-lg font-semibold transition-colors duration-300"

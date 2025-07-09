@@ -6,7 +6,7 @@ const BlogSection = () => {
   const blogPosts = [
     {
       title: "Top 5 Investment Platforms for High-Net-Worth Individuals in 2025",
-      excerpt: "Discover exclusive investment opportunities with commissions up to $1,749 per referral.",
+      excerpt: "Discover exclusive investment opportunities with commissions up to $1,749 per referral. We analyze Capitalist Exploits, Personal Capital, and other premium platforms.",
       category: "Finance & Investing",
       date: "January 15, 2025",
       author: "TechTools Team",

@@ -12,7 +12,7 @@ const FinanceInvesting = () => {
       cookieDuration: '365 days',
       features: ['High-net-worth focus', 'Institutional-grade research', 'Global market analysis'],
       rating: 4.9,
-      link: 'https://capitalistexploits.com/?ref=techtoolsreviews',
+      link: 'https://capexinsider.com/?orid=107231&opid=39',
       type: 'high' as const
     },
     {
@@ -180,7 +180,7 @@ const FinanceInvesting = () => {
           </p>
           <div className="flex flex-col sm:flex-row gap-4 justify-center">
             <a
-              href="https://capitalistexploits.com/?ref=techtoolsreviews"
+              href="https://capexinsider.com/?orid=107231&opid=39"
               target="_blank"
               rel="noopener noreferrer"
               className="bg-white text-green-600 hover:bg-gray-100 px-8 py-3 rounded-lg font-semibold transition-colors duration-300"
